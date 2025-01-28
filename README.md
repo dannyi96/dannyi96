@@ -41,24 +41,6 @@ An efficient, generic, user-friendly Python Genetic Algorithm API.
 
 ---
 
-### 🚫 [LinkedIn Feed Hider](https://github.com/dannyi96/linkedin_feed_hidder)
-
-A Chrome extension to hide social media posts on LinkedIn, enabling focus on jobs and connections.
-
-- **Technologies:** JavaScript 💡
-- **Description:** Enhances productivity by filtering out non-professional content from LinkedIn feeds, allowing users to concentrate on career-related updates.
-
----
-
-### ⚡ [Swift Compiler](https://github.com/dannyi96/Swift-Compiler)
-
-A compiler for the Swift Programming Language made using Python's PLY.
-
-- **Technologies:** Python 🐍
-- **Description:** Developed a compiler front-end for Swift, handling lexical analysis, syntax analysis, and semantic analysis using Python's PLY library.
-
----
-
 ### 🔍 [Splunk Codebase Correlator](https://github.com/dannyi96/Splunk-Codebase-Correlator)
 
 A tool designed to correlate logs at Splunk with a codebase and RCA which lines in codebases are generating noisy logs.
