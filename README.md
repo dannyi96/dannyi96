@@ -9,7 +9,7 @@
 
 ## ✨ About Me
 
-I am a Backend Software Engineer with over 6 years of experience, currently working at **Citrix**. My primary focus is on developing features for the control plane of load balancers.
+I am a Backend Software Engineer with over 6 years of experience, currently working at **Nutanix**. My primary focus is on developing features for the control plane of load balancers.
 
 🛠️ **Programming Languages:**  
 - **Proficient:** Python 🐍, C/C++ 💾, JavaScript 💡  
